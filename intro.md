@@ -1,14 +1,10 @@
-# Welcome to your Jupyter Book
+# Operaciones Unitarias I
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Este es un compilado de ejercicios para el curso de operaciones unitarias I.
 
-Check out the content pages bundled with this sample book to see more.
+## Índice
 
-¡Y aquí hay una modificiación en un markdown!
-
+Todo lo que busques lo puedes encontrar a través de los enlaces que se encuentran a continuación.
 
 ```{tableofcontents}
 ```
